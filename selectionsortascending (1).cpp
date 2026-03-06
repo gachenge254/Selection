@@ -1,5 +1,5 @@
-// HOSTINE OLARE
-// EB3/68519/23
+// SIMON GITHINJI
+// EB3/65364/23
 // C++
 #include <iostream>
 using namespace std;
@@ -47,4 +47,5 @@ int main() {
     }
     
     return 0;
+
 }
